@@ -1,0 +1,2 @@
+datetime,volume,min_price,max_price,open_price,closed_price,avg_price,wa_price,median,moving_avg,donch_top,donch_bot,id
+2026-05-13 00:00:00+00:00,180,68,70,70,70,69.0,69.417,70.0,81.8,200,55,6a0512a1bfd47a0013aba827
